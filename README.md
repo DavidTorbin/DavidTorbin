@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  <a href="https://daniilshat.ru/" target="_blank">David Torbin</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="70"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="90"/></h1>
 
 
 
